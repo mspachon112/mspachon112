@@ -21,11 +21,11 @@
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs" /><br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vitest" /><br/>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind" /><br/>
   <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=express,postgresql,mongodb,prisma,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,postgresql,mysql,java" /><br/>
   <!-- Herramientas -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
@@ -35,8 +35,8 @@
 ### 📊 Mis estadísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mspachon112&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspachon112&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mspachon112&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspachon112&theme=tokyonight" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="mailto:maicolstiven1209@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://mspachon112.github.io/"><img src="https://skillicons.dev/icons?i=web" /></a>
+  <a href="https://mspachon112.github.io/"><img src="./img/favicon.png" /></a>
   <a href="https://www.linkedin.com/in/michael-stiven-pachon-preciado-81216431b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
