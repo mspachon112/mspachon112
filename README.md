@@ -43,16 +43,27 @@
 
 ### 🌐 Conéctate conmigo
 
-<p align="center">
-  <a href="mailto:maicolstiven1209@gmail.com" title="Envíame un correo">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://mspachon112.github.io/" title="Visita mi portafolio">
-    <img src="./img/favicon.png" style="width: 48px; height: 48px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/michael-stiven-pachon-preciado-81216431b/" title="Conéctemos en LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<p align="center" style="display:flex; justify-content:center; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+  <figure style="display:inline-block; margin:0; text-align:center;">
+    <a href="mailto:maicolstiven1209@gmail.com" title="Envíame un correo" style="text-decoration:none; color:inherit;">
+      <img src="https://skillicons.dev/icons?i=gmail" style="width:48px; height:48px;" alt="Gmail" />
+    </a>
+    <figcaption style="font-size:0.9rem; margin-top:6px;">Gmail</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:0; text-align:center;">
+    <a href="https://mspachon112.github.io/" title="Visita mi portafolio" style="text-decoration:none; color:inherit;">
+      <img src="./img/favicon.png" style="width:48px; height:48px; object-fit:contain;" alt="Portafolio" />
+    </a>
+    <figcaption style="font-size:0.9rem; margin-top:6px;">Portafolio</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:0; text-align:center;">
+    <a href="https://www.linkedin.com/in/michaelpachon/" title="Conéctemos en LinkedIn" style="text-decoration:none; color:inherit;">
+      <img src="https://skillicons.dev/icons?i=linkedin" style="width:48px; height:48px;" alt="LinkedIn" />
+    </a>
+    <figcaption style="font-size:0.9rem; margin-top:6px;">LinkedIn</figcaption>
+  </figure>
 </p>
 
 ---
