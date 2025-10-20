@@ -44,9 +44,15 @@
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="mailto:maicolstiven1209@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://mspachon112.github.io/"><img src="./img/favicon.png" /></a>
-  <a href="https://www.linkedin.com/in/michael-stiven-pachon-preciado-81216431b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:maicolstiven1209@gmail.com" title="Envíame un correo">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://mspachon112.github.io/" title="Visita mi portafolio">
+    <img src="./img/favicon.png" style="width: 48px; height: 48px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael-stiven-pachon-preciado-81216431b/" title="Conéctemos en LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
