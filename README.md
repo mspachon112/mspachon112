@@ -40,18 +40,16 @@
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="mailto:maicolstiven1209@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" style="vertical-align: middle;" />
-    <span style="margin-left: 4px;">Gmail</span>
-  </a>
-  <a href="https://mspachon112.github.io/" target="_blank" style="margin: 0 8px; text-decoration: none;">
-    <img src="./img/favicon.png" width="40" height="40" alt="Portafolio" style="vertical-align: middle; object-fit: contain;" />
-    <span style="margin-left: 4px;">Portafolio</span>
+  <a href="mailto:maicolstiven1209@gmail.com" target="_blank" title="Envíame un correo" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
   </a>
   
-  <a href="https://www.linkedin.com/in/michaelpachon/" target="_blank" style="margin: 0 8px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" style="vertical-align: middle;" />
-    <span style="margin-left: 4px;">LinkedIn</span>
+  <a href="https://mspachon112.github.io/" target="_blank" title="Visita mi portafolio" style="margin: 0 12px;">
+    <img src="./img/favicon.png" width="40" height="40" alt="Portafolio" style="object-fit: contain;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/michaelpachon/" target="_blank" title="Conéctemos en LinkedIn" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
 
