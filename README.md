@@ -1,19 +1,15 @@
-<h1 align="center">👋 ¡Hola! Soy Michael Stiven Pachón Preciado</h1>
+<h1 align="center">👋 Hola, soy Michael Pachón</h1> 
 
-<p align="center">
-  🚀 Desarrollador <strong>Fullstack</strong> apasionado por crear, mejorar y aprender constantemente.  
-  Me encanta construir tecnologías <strong>estéticas, funcionales</strong> y con una excelente experiencia de usuario.
-</p>
+<p align="center"> Desarrollador <strong>Fullstack</strong> con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web utilizando tecnologías modernas del ecosistema <strong>JavaScript / TypeScript</strong>. </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 💻 Me encanta trabajar con tecnologías modernas del ecosistema **JavaScript / TypeScript**.  
-- 🌱 Siempre estoy aprendiendo algo nuevo: frameworks, patrones y buenas prácticas.  
-- 🎨 Disfruto crear interfaces limpias y experiencias de usuario atractivas.  
-- 🤝 Abierto a colaborar en proyectos interesantes y desafiantes.  
-- ⚡ Fun fact: paso más tiempo mejorando mis proyectos que terminándolos 😅  
+- Más de un año de experiencia desarrollando aplicaciones web completas, desde el frontend hasta el backend.
+- Manejo sólido de tecnologías del ecosistema **JavaScript / TypeScript** tanto en frontend como en backend.  
+- Enfocado en buenas prácticas: código limpio, componentes reutilizables, patrones de arquitectura y tests. 
+- Desarrollo proyectos personales para seguir ampliando conocimientos y mantenerme actualizado con nuevas tecnologías.
 
 ---
 
@@ -27,7 +23,7 @@
   <!-- Backend & DB -->
   <img src="https://skillicons.dev/icons?i=nestjs,spring,postgresql,mysql,java" /><br/>
   <!-- Herramientas -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=git,postman,docker,github,vscode,figma" />
 </p>
 
 ---
@@ -35,37 +31,30 @@
 ### 📊 Mis estadísticas
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mspachon112&show_icons=true&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspachon112&theme=tokyonight" />
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=mspachon112&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspachon112&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Conéctate conmigo
 
-<p align="center" style="display:flex; justify-content:center; gap:24px; align-items:flex-start; flex-wrap:wrap;">
-  <figure style="display:inline-block; margin:0; text-align:center;">
-    <a href="mailto:maicolstiven1209@gmail.com" title="Envíame un correo" style="text-decoration:none; color:inherit;">
-      <img src="https://skillicons.dev/icons?i=gmail" style="width:48px; height:48px;" alt="Gmail" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:6px;">Gmail</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:0; text-align:center;">
-    <a href="https://mspachon112.github.io/" title="Visita mi portafolio" style="text-decoration:none; color:inherit;">
-      <img src="./img/favicon.png" style="width:48px; height:48px; object-fit:contain;" alt="Portafolio" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:6px;">Portafolio</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:0; text-align:center;">
-    <a href="https://www.linkedin.com/in/michaelpachon/" title="Conéctemos en LinkedIn" style="text-decoration:none; color:inherit;">
-      <img src="https://skillicons.dev/icons?i=linkedin" style="width:48px; height:48px;" alt="LinkedIn" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:6px;">LinkedIn</figcaption>
-  </figure>
+<p align="center">
+  <a href="mailto:maicolstiven1209@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" style="vertical-align: middle;" />
+    <span style="margin-left: 4px;">Gmail</span>
+  </a>
+  <a href="https://mspachon112.github.io/" target="_blank" style="margin: 0 8px; text-decoration: none;">
+    <img src="./img/favicon.png" width="40" height="40" alt="Portafolio" style="vertical-align: middle; object-fit: contain;" />
+    <span style="margin-left: 4px;">Portafolio</span>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/michaelpachon/" target="_blank" style="margin: 0 8px; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" style="vertical-align: middle;" />
+    <span style="margin-left: 4px;">LinkedIn</span>
+  </a>
 </p>
 
 ---
 
-<p align="center">✨ “Cada línea de código es una oportunidad para aprender y mejorar.” ✨</p>
+<p align="center">✨ “Cada línea de código es una oportunidad para aprender y mejorar” ✨</p>
