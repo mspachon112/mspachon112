@@ -40,15 +40,15 @@
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="mailto:maicolstiven1209@gmail.com" target="_blank" title="Envíame un correo" style="margin: 0 12px;">
+  <a href="mailto:maicolstiven1209@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
   </a>
-  
-  <a href="https://mspachon112.github.io/" target="_blank" title="Visita mi portafolio" style="margin: 0 12px;">
-    <img src="./img/favicon.png" width="40" height="40" alt="Portafolio" style="object-fit: contain;" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mspachon112.github.io/" target="_blank">
+    <img src="./img/favicon.png" width="40" height="40" alt="Portafolio" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/michaelpachon/" target="_blank" title="Conéctemos en LinkedIn" style="margin: 0 12px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/michaelpachon/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
