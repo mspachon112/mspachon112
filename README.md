@@ -14,7 +14,7 @@
 
 ### 🧠 Profile Summary
 
-I am a results-driven Fullstack Developer with 1+ year of experience designing and maintaining end-to-end digital solutions. My approach combines robust backend logic with a keen eye for **UI/UX design**, ensuring that every line of code translates into a seamless user experience.
+I am a results-driven Fullstack Developer with 2+ year of experience designing and maintaining end-to-end digital solutions. My approach combines robust backend logic with a keen eye for **UI/UX design**, ensuring that every line of code translates into a seamless user experience.
 
 - 🚀 **Experience:** Building high-performance web apps from architectural design to deployment.
 - 🛠️ **Engineering Standards:** Strong advocate for Clean Code, SOLID principles, and Test-Driven Development (TDD).
